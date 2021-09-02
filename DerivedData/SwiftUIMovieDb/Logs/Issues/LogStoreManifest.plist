@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A8C2FFFD-2A94-48BC-B3E1-312E3C06005E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>A8C2FFFD-2A94-48BC-B3E1-312E3C06005E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>SwiftUIMovieDb-ffeukzsjqnaphygjqrhyzhosgvye</string>
+			<key>timeStartedRecording</key>
+			<real>652274496.29904497</real>
+			<key>timeStoppedRecording</key>
+			<real>652274509.24087501</real>
+			<key>title</key>
+			<string>Build target SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>A8C2FFFD-2A94-48BC-B3E1-312E3C06005E</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

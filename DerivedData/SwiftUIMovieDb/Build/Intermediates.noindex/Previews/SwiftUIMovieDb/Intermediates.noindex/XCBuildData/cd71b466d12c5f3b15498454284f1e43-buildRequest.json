@@ -1,0 +1,53 @@
+{
+  "buildCommand" : "preview",
+  "configuredTargets" : [
+    {
+      "guid" : "b307b0540008d27adb5d8e05e4b16ff816c2230c8863839687eef2f378c15017"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Products",
+      "derivedDataPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Intermediates.noindex/Previews/SwiftUIMovieDb/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "OBJROOT" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Intermediates.noindex/Previews/SwiftUIMovieDb/Intermediates.noindex",
+          "SYMROOT" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Intermediates.noindex/Previews/SwiftUIMovieDb/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

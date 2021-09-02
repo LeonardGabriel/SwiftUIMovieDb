@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0A39A255-D480-4A59-930E-173ABFF76AA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A39A255-D480-4A59-930E-173ABFF76AA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652274401.77261698</real>
+			<key>timeStoppedRecording</key>
+			<real>652274408.57542002</real>
+			<key>title</key>
+			<string>Build SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>0A39A255-D480-4A59-930E-173ABFF76AA0</string>
+		</dict>
+		<key>394B3D41-840F-472C-B790-CA8B6CA97A80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>394B3D41-840F-472C-B790-CA8B6CA97A80.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652274250.46991599</real>
+			<key>timeStoppedRecording</key>
+			<real>652274256.62062597</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>394B3D41-840F-472C-B790-CA8B6CA97A80</string>
+		</dict>
+		<key>81FD8DDB-187E-473E-882E-2099E1123B56</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81FD8DDB-187E-473E-882E-2099E1123B56.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652189813.90700901</real>
+			<key>timeStoppedRecording</key>
+			<real>652189817.43800998</real>
+			<key>title</key>
+			<string>Build SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>81FD8DDB-187E-473E-882E-2099E1123B56</string>
+		</dict>
+		<key>840601D8-0E6C-4E53-A4D3-0793B1A9C85A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>840601D8-0E6C-4E53-A4D3-0793B1A9C85A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652274247.54794002</real>
+			<key>timeStoppedRecording</key>
+			<real>652274247.72321999</real>
+			<key>title</key>
+			<string>Clean SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>840601D8-0E6C-4E53-A4D3-0793B1A9C85A</string>
+		</dict>
+		<key>A1C52367-E99B-48A1-B235-E45EAEB63124</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1C52367-E99B-48A1-B235-E45EAEB63124.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652273466.60541999</real>
+			<key>timeStoppedRecording</key>
+			<real>652273484.033149</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>A1C52367-E99B-48A1-B235-E45EAEB63124</string>
+		</dict>
+		<key>A314988B-FBAF-43F3-84AE-E2C913023DB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A314988B-FBAF-43F3-84AE-E2C913023DB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652273617.291273</real>
+			<key>timeStoppedRecording</key>
+			<real>652273624.08989894</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>A314988B-FBAF-43F3-84AE-E2C913023DB5</string>
+		</dict>
+		<key>ADC7F9A9-860D-46D1-A12B-271A9129FFB2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADC7F9A9-860D-46D1-A12B-271A9129FFB2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652274496.12356901</real>
+			<key>timeStoppedRecording</key>
+			<real>652274509.26082695</real>
+			<key>title</key>
+			<string>Build SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>ADC7F9A9-860D-46D1-A12B-271A9129FFB2</string>
+		</dict>
+		<key>B8EEB5C1-CA30-479B-9F2C-A1BA32C7DFE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B8EEB5C1-CA30-479B-9F2C-A1BA32C7DFE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652274683.44514298</real>
+			<key>timeStoppedRecording</key>
+			<real>652274683.56470597</real>
+			<key>title</key>
+			<string>Build SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>B8EEB5C1-CA30-479B-9F2C-A1BA32C7DFE1</string>
+		</dict>
+		<key>EFF10620-52EC-4ABD-8F38-19AAA4758DD9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EFF10620-52EC-4ABD-8F38-19AAA4758DD9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652273465.03956699</real>
+			<key>timeStoppedRecording</key>
+			<real>652273465.21821499</real>
+			<key>title</key>
+			<string>Clean SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>EFF10620-52EC-4ABD-8F38-19AAA4758DD9</string>
+		</dict>
+		<key>FACA325D-631D-4581-8A26-CEA682CE7FC4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FACA325D-631D-4581-8A26-CEA682CE7FC4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652273616.49004197</real>
+			<key>timeStoppedRecording</key>
+			<real>652273616.58797395</real>
+			<key>title</key>
+			<string>Clean SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>FACA325D-631D-4581-8A26-CEA682CE7FC4</string>
+		</dict>
+		<key>FEB88506-DB7E-4F5B-8B41-C0CB04C6A064</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FEB88506-DB7E-4F5B-8B41-C0CB04C6A064.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIMovieDb project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIMovieDb</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUIMovieDb</string>
+			<key>timeStartedRecording</key>
+			<real>652273612.37080204</real>
+			<key>timeStoppedRecording</key>
+			<real>652273613.26188099</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUIMovieDb</string>
+			<key>uniqueIdentifier</key>
+			<string>FEB88506-DB7E-4F5B-8B41-C0CB04C6A064</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

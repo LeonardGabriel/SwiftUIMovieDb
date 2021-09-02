@@ -1,0 +1,57 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b307b0540008d27adb5d8e05e4b16ff816c2230c8863839687eef2f378c15017"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Products",
+      "derivedDataPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "1A03C80A-9510-4334-8D35-88D801DF1CD3",
+          "TARGET_DEVICE_MODEL" : "iPhone12,5",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,59 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "b307b0540008d27adb5d8e05e4b16ff816c2230c8863839687eef2f378c15017"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Products",
+      "derivedDataPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/leonardbuduleanu/Library/Mobile Documents/com~apple~CloudDocs/Documents/Developer/SwiftUIMovieDb/DerivedData/SwiftUIMovieDb/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone10,6",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.7.1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "8ec5e6b48a1124a593f6133f2a00c71bb4f8fdff",
+          "TARGET_DEVICE_MODEL" : "iPhone10,6",
+          "TARGET_DEVICE_OS_VERSION" : "14.7.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
